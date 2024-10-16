@@ -1,0 +1,19 @@
+1. make empty repo on GitHub
+2. open command prompt
+3. find project on computer, copy file path and type "cd [filepath]" into command prompt to access the file path
+4. type "git init" into command promp
+5. type "git status" into prompt, files not added to staging should be red
+6. type "git add ." to add ALL files to staging, if you only want one then "git add [file]"
+7. type "git status" to confirm its green
+8. connect GitHub repo by typing "git remote add origin [file of GitHub repo]"
+9. type "git push -u origin main" to push to GitHub main branch
+10. yippee!
+
+to edit changes
+1. make your changes to the files
+2. access project in command prompt with "cd [filepath]"
+3. type "git status" to see red files
+4. type "git add ." to add ALL files to staging, if you only want one then "git add [file]"
+5. type "git status", make sure files are yummy green
+6. "git push -u origin main" to push to GitHub main branch
+7. breathe a sigh of fresh air

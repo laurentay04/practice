@@ -56,10 +56,11 @@ public class Music_Selector
         //extra
         albums.add("Princess and the Pauper");
         albums.add("Dua Lipa");
-        albums.add("Ariana Grande");
+        albums.add("Dangerous Woman");
         //albums.add("Selena Gomez");
         //albums.add("Lemonade Mouth");
-        albums.add("brat and it's the same but there's three more songs so it's not");
+        albums.add("Radical Optimism");
+        albums.add("Sweetener");
 
         System.out.println("I have " + albums.size() + " albums.");
         musicSelect(albums);
