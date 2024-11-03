@@ -61,6 +61,7 @@ public class Music_Selector
         //albums.add("Lemonade Mouth");
         albums.add("Radical Optimism");
         albums.add("Sweetener");
+        albums.add("brat");
 
         System.out.println("I have " + albums.size() + " albums.");
         musicSelect(albums);
