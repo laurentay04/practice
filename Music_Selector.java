@@ -14,17 +14,20 @@ public class Music_Selector
         albums.add("Wave");
         albums.add("Wonderland");
         albums.add("Answer");
+        albums.add("Deja Vu");
         albums.add("Guerilla");
+        albums.add("Bouncy");
         albums.add("Crazy Form");
         albums.add("Work");
+        albums.add("Ice on my Teeth");
 
         //blackpink
-        albums.add("Pink Venom");
+        //albums.add("Pink Venom");
 
         //itzy
         albums.add("Mafia");
         albums.add("Loco");
-        albums.add("Sneakers");
+        //albums.add("Sneakers");
 
         //twice
         albums.add("Feel Special");
@@ -61,7 +64,9 @@ public class Music_Selector
         //albums.add("Lemonade Mouth");
         albums.add("Radical Optimism");
         albums.add("Sweetener");
-        albums.add("brat");
+        aalbums.add("brat");
+        albums.add("Wicked Part One");
+        albums.add("Future Nostalgia");
 
         System.out.println("I have " + albums.size() + " albums.");
         musicSelect(albums);
