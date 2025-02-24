@@ -59,14 +59,16 @@ public class Music_Selector
         //extra
         albums.add("Princess and the Pauper");
         albums.add("Dua Lipa");
-        albums.add("Dangerous Woman");
+        albums.add("My Everything");
         //albums.add("Selena Gomez");
         //albums.add("Lemonade Mouth");
         albums.add("Radical Optimism");
         albums.add("Sweetener");
-        aalbums.add("brat");
+        albums.add("brat");
         albums.add("Wicked Part One");
         albums.add("Future Nostalgia");
+        albums.add("Short n Sweet");
+        albums.add("Abba Gold");
 
         System.out.println("I have " + albums.size() + " albums.");
         musicSelect(albums);
